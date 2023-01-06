@@ -1,0 +1,15 @@
+/target/
+
+*.class
+*.jar
+
+# IDE files
+/nb-configuration.xml
+/nbactions.xml
+/.vscode/
+/.idea/
+/.classpath
+
+# OS files
+Thumbs.db
+Desktop.ini
