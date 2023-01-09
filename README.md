@@ -18,7 +18,7 @@ For now on you'll have to add the follwing repository to get the plugin:
   <pluginRepositories>
     <pluginRepository>
       <id>jobayle-maven-plugins</id>
-      <url>https://pkgs.dev.azure.com/jobayle/jobayle-maven-repo/_packaging/jobayle-maven-plugins/maven/v1</url>
+      <url>https://pkgs.dev.azure.com/jobayle/maven-public/_packaging/maven-plugins/maven/v1</url>
     </pluginRepository>
   </pluginRepositories>
 ```
